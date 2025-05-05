@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/mauricekastelijn/dockerized-python-app-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/mauricekastelijn/dockerized-python-app-template/actions/workflows/cicd.yml)
+
 # Dockerized Python Application Template repository
 
 Template repository for dockerized python application including a devcontainer
